@@ -239,3 +239,15 @@
   scholarships: false
   childcare: false
   description: Through OWASP Bangalore chapter aims to provide free of cost premium workshops and talks to all the participants.
+
+- title: Carnegie Global Technology Summit
+  city: Bengaluru
+  venue: Hotel Leela Palace, Bengaluru
+  display_date: 17 – 19 December 2018
+  start: 2018-12-17
+  end: 2018-12-19
+  website: https://carnegieindia.org/2018/12/19/global-technology-summit-2018-event-6944
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: "This year’s Summit focuses on the theme, Technology and Society: Getting the Balance Right."
