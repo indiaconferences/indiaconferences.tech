@@ -275,3 +275,15 @@
   scholarships: false
   childcare: false
   description: Have you always wanted to become a tech conference speaker?
+
+- title: Great International Developer Summit
+  city: Bengaluru
+  venue: IISc, Bangalore
+  display_date: 22 – 26 April 2019
+  start: 2019-04-22
+  end: 2019-04-26
+  website: https://www.developermarch.com/developersummit/index.html
+  cfp: https://developermarch.com/developersummit/cfp/callForProposals.html
+  scholarships: false
+  childcare: false
+  description: 12 Years Of Developer Awesomeness!
