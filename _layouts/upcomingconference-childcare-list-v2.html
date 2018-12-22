@@ -32,7 +32,7 @@ layout: compress
         {% for conference in conferences %}
         
         {% capture end %}{{conference.end | date: '%Y%m%d' | plus: 0 }}{% endcapture %}
-        
+        {% if conference.childcare != false %}
         {% if end >= now %} 
         
         <li>
@@ -50,11 +50,10 @@ layout: compress
             {% if conference.scholarships != false %}
             <li><a href="{%  if conference.scholarship contains "://" %}{{ conference.scholarthip }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">🎓 SCHOLARSHIPS</a></li>
             {% endif %}
-            {% if conference.childcare != false %}
             <li><a href="{%  if conference.childcare contains "://" %}{{ conference.childcare }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">👶 CHILDCARE</a></li>
-            {% endif %}
           </ul>
         </li>
+        {% endif %}
         {% endif %}
         {% endfor %}
         

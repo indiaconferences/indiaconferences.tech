@@ -7,8 +7,8 @@ layout: compress
 {% include head.html %}
 <body id="posts">
   
-    {% include v2-left-block.html %}
-  
+{% include v2-left-block.html %}
+
   <div class="block-right">
     
     <!-- <a href="{{ site.url }}/posts" title="posts" class="posts-menu-icon"></a> -->
@@ -32,7 +32,7 @@ layout: compress
         {% for conference in conferences %}
         
         {% capture end %}{{conference.end | date: '%Y%m%d' | plus: 0 }}{% endcapture %}
-        
+        {% if conference.cfp != false %}
         {% if end >= now %} 
         
         <li>
@@ -44,9 +44,7 @@ layout: compress
           </h2>
           <p>{{ conference.description | strip_html | truncatewords:10 }}</p>
           <ul class="tags">
-            {% if conference.cfp != false %}
             <li><a href="{%  if conference.cfp contains "://" %}{{ conference.cfp }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">🎤 CFP</a></li>
-            {% endif %}
             {% if conference.scholarships != false %}
             <li><a href="{%  if conference.scholarship contains "://" %}{{ conference.scholarthip }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">🎓 SCHOLARSHIPS</a></li>
             {% endif %}
@@ -55,6 +53,7 @@ layout: compress
             {% endif %}
           </ul>
         </li>
+        {% endif %}
         {% endif %}
         {% endfor %}
         
