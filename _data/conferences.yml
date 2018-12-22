@@ -287,3 +287,15 @@
   scholarships: false
   childcare: false
   description: 12 Years Of Developer Awesomeness!
+
+- title: GirlScript India Summit 2018
+  city: Nagpur
+  venue: PBCOE Nagpur
+  display_date: 15 – 16 Decmeber 2018
+  start: 2018-12-15
+  end: 2018-12-16
+  website: http://girlscriptsummit.tech/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: GirlScript is the fastest growing tech-community in India. It is a non-profit project brought to you by GirlScript Foundation to help beginners in technology. Be a part, spread knowledge & happiness.
