@@ -311,3 +311,27 @@
   scholarships: false
   childcare: false
   description: "Small group, meaningful conversations: tinyconf is a not for profit conference that aims to bring the react community together to have conversations beyond the \"how\" with 8 talks and just 25 attendees. The conference is designed to involve everyone in the discourse with short talks and plenty of time for discussions and follow-up conversations."
+
+- title: UI Nxt
+  city: Pune
+  venue: Pune
+  display_date: 19 January 2019
+  start: 2019-01-19
+  end: 2019-01-19
+  website: https://uinxt.globant.com/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: UI Nxt is a platform for UI enthusiasts to come and learn about the current as well as emerging trends in the UI ecosystem. We welcome all UI afficionados to attend this event and make the best of this opportunity to learn from their peers.
+
+- title: "DevDay: Explore AI on Arm"
+  city: Online
+  venue: Internet
+  display_date: 22 January 2019
+  start: 2019-01-22
+  end: 2019-01-22
+  website: https://events.hackster.io/armdevday
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: Learn about some of the key building blocks needed to develop intelligent machines. This one-day, online interactive event will give you experience with machine learning, voice recognition and computer vision.
