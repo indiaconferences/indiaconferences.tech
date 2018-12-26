@@ -299,15 +299,3 @@
   scholarships: false
   childcare: false
   description: GirlScript is the fastest growing tech-community in India. It is a non-profit project brought to you by GirlScript Foundation to help beginners in technology. Be a part, spread knowledge & happiness.
-
-- title: A tiny conference about React
-  city: Bengaluru
-  venue: GeekyAnts Software, BTM 2nd Stage, Bengaluru
-  display_date: 05 January 2019
-  start: 2019-01-05
-  end: 2019-01-05
-  website: https://tinyconf.in/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: "Small group, meaningful conversations: tinyconf is a not for profit conference that aims to bring the react community together to have conversations beyond the "how" with 8 talks and just 25 attendees. The conference is designed to involve everyone in the discourse with short talks and plenty of time for discussions and follow-up conversations."
