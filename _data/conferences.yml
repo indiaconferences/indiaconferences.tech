@@ -308,7 +308,7 @@
   end: 2019-01-05
   website: https://tinyconf.in/
   cfp: false
-  scholarships: false
+  scholarships: https://tinyconf.in/scholarship
   childcare: false
   description: "Small group, meaningful conversations: tinyconf is a not for profit conference that aims to bring the react community together to have conversations beyond the \"how\" with 8 talks and just 25 attendees. The conference is designed to involve everyone in the discourse with short talks and plenty of time for discussions and follow-up conversations."
 
