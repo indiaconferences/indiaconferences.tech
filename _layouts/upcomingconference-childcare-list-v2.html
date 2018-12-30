@@ -7,7 +7,7 @@ layout: compress
 {% include head.html %}
 <body id="posts">
   
-    {% include v2-left-block.html %}
+  {% include v2-left-block.html %}
   
   <div class="block-right">
     
@@ -44,13 +44,13 @@ layout: compress
           </h2>
           <p>{{ conference.description | strip_html | truncatewords:10 }}</p>
           <ul class="tags">
+            <li><a href="{%  if conference.childcare contains "://" %}{{ conference.childcare }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">👶 CHILDCARE</a></li>
             {% if conference.cfp != false %}
             <li><a href="{%  if conference.cfp contains "://" %}{{ conference.cfp }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">🎤 CFP</a></li>
             {% endif %}
             {% if conference.scholarships != false %}
-            <li><a href="{%  if conference.scholarship contains "://" %}{{ conference.scholarthip }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">🎓 SCHOLARSHIPS</a></li>
+            <li><a href="{%  if conference.scholarships contains "://" %}{{ conference.scholarships }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">🎓 SCHOLARSHIPS</a></li>
             {% endif %}
-            <li><a href="{%  if conference.childcare contains "://" %}{{ conference.childcare }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">👶 CHILDCARE</a></li>
           </ul>
         </li>
         {% endif %}

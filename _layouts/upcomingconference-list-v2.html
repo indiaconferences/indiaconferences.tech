@@ -48,7 +48,7 @@ layout: compress
             <li><a href="{%  if conference.cfp contains "://" %}{{ conference.cfp }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">🎤 CFP</a></li>
             {% endif %}
             {% if conference.scholarships != false %}
-            <li><a href="{%  if conference.scholarship contains "://" %}{{ conference.scholarthip }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">🎓 SCHOLARSHIPS</a></li>
+            <li><a href="{%  if conference.scholarships contains "://" %}{{ conference.scholarships }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">🎓 SCHOLARSHIPS</a></li>
             {% endif %}
             {% if conference.childcare != false %}
             <li><a href="{%  if conference.childcare contains "://" %}{{ conference.childcare }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">👶 CHILDCARE</a></li>
