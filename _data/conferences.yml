@@ -335,3 +335,15 @@
   scholarships: false
   childcare: false
   description: Learn about some of the key building blocks needed to develop intelligent machines. This one-day, online interactive event will give you experience with machine learning, voice recognition and computer vision.
+
+- title: "Machine learning Developers Summit 2019 (MLDS19)"
+  city: Bengaluru
+  venue: NIMHANS CONVENTIONS CENTER, BENGALURU
+  display_date: 30 – 31 January 2019
+  start: 2019-01-30
+  end: 2019-01-31
+  website: https://www.mlds.analyticsindiasummit.com/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description:  MLDS19 brings together the India’s leading Machine Learning innovators and practitioners to share their ideas and experience about machine learning tools, advanced development in this sphere and gives the attendees a first look at new trends & developer products.
