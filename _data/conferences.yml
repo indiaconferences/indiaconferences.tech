@@ -346,4 +346,64 @@
   cfp: false
   scholarships: false
   childcare: false
-  description:  MLDS19 brings together the India’s leading Machine Learning innovators and practitioners to share their ideas and experience about machine learning tools, advanced development in this sphere and gives the attendees a first look at new trends & developer products.
+  description: MLDS19 brings together the India’s leading Machine Learning innovators and practitioners to share their ideas and experience about machine learning tools, advanced development in this sphere and gives the attendees a first look at new trends & developer products.
+
+- title: "Hosting & Domain Conference"
+  city: Hyderabad
+  venue: Radisson Hyderabad Hitec City, Hyderabad, India
+  display_date: 02 February 2019
+  start: 2019-02-02
+  end: 2019-02-02
+  website: https://www.hdcon.org/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: Hosting and Domain Conference is the World's Top initiative to discuss on latest happenings in the field of web technologies. Hosting, Domain, Blogging and Web technologies are major discussions.
+
+- title: "Outcome 2019"
+  city: Chandigarh
+  venue: SPIC Centre, EDC, RG Technology Park, Chandigarh
+  display_date: 09 February 2019
+  start: 2019-02-09
+  end: 2019-02-09
+  website: http://outcomeconf.com/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: OUTCOME. STORYTELLING AND UX DESIGN
+
+- title: "DSConf 2019"
+  city: Pune
+  venue: Hotel Novotel, Pune, Maharashtra
+  display_date: 16 February 2019
+  start: 2019-02-16
+  end: 2019-02-16
+  website: https://dsconf.in/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: Distributed Systems Conference
+
+- title: "nullcon"
+  city: Goa
+  venue: HOLIDAY INN RESORT, GOA
+  display_date: 01 – 02 March 2019
+  start: 2019-03-01
+  end: 2019-03-02
+  website: https://nullcon.net/website/
+  cfp: https://nullcon.net/website/goa-2019/cfp.php
+  scholarships: false
+  childcare: false
+  description: International Security Conference
+
+- title: "WE Local"
+  city: Bengaluru
+  venue: Sheraton Grand Bengaluru Whitefield Hotel & Convention Center
+  display_date: 11 – 13 April 2019
+  start: 2019-04-11
+  end: 2019-04-13
+  website: https://welocal.swe.org/bengaluru/location/
+  cfp: https://welocal.swe.org/bengaluru/schedule/become-a-speaker-at-we-local-india/
+  scholarships: https://welocal.swe.org/about/travel-grants-available-for-we-local/
+  childcare: false
+  description: Join SWE for the fourth annual WE Local India conference in Bengaluru. WE Local India will provide the opportunity for women in engineering to advance in their careers and connect with like-minded professionals.
