@@ -407,3 +407,39 @@
   scholarships: https://welocal.swe.org/about/travel-grants-available-for-we-local/
   childcare: false
   description: Join SWE for the fourth annual WE Local India conference in Bengaluru. WE Local India will provide the opportunity for women in engineering to advance in their careers and connect with like-minded professionals.
+
+- title: "India Cloud Summit 2019"
+  city: Bengaluru
+  venue: Radisson Blu Bengaluru Outer Ring Road.
+  display_date: 15 February 2019
+  start: 2019-02-15
+  end: 2019-02-15
+  website: https://www.indiacloudsummit.com/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: India Cloud Summit is the one place to explore new ideas & learn from industry experts.
+
+- title: "AGILE MUMBAI"
+  city: Mumbai
+  venue: Hilton Mumbai International Airport
+  display_date: 21 – 22 January 2019
+  start: 2019-01-21
+  end: 2019-01-22
+  website: http://www.agilemumbai.com/
+  cfp: http://www.agilemumbai.com/#call-for-action
+  scholarships: false
+  childcare: false
+  description: Agile Mumbai is community organised event under the umbrella of Agile Network India.
+
+- title: "devon summit 2019"
+  city: Bengaluru
+  venue: Hilton Mumbai International Airport
+  display_date: 22 February 2019
+  start: 2019-02-22
+  end: 2019-02-22
+  website: https://devonsummit.in/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: The most valuable DevOps and Digital Transformation event of the year!
