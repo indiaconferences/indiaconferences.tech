@@ -443,3 +443,123 @@
   scholarships: false
   childcare: false
   description: The most valuable DevOps and Digital Transformation event of the year!
+
+- title: "REACT INDIA"
+  city: Goa
+  venue: Goa
+  display_date: 26 – 28 September 2019
+  start: 2019-09-26
+  end: 2019-09-28
+  website: https://reactindia.io/
+  cfp: http://bit.ly/cfp-reactindia 
+  scholarships: https://www.notion.so/Scholarship-Program-React-India-2019-490794dd0a464db0a43b4c8c5440839f
+  childcare: false
+  description: React India is an international community-led non-profit initiative that provides a platform for developers to share and discuss their insights and experiences with React. The three-day conference is the first of its kind in India.
+
+- title: "JSFoo: VueDay 2019"
+  city: Bengaluru
+  venue: Bangalore International Centre, Domlur, Bangalore
+  display_date: 30 August 2019
+  start: 2019-08-30
+  end: 2019-08-30
+  website: https://hasgeek.com/jsfoo/2019-vueday/
+  cfp: https://hasgeek.com/jsfoo/2019-vueday/proposals#call-for-proposal
+  scholarships: false
+  childcare: true
+  description: A day spent discussing Vue.js, developments in the Vue ecosystem and component architecture.
+
+- title: "ODSC INDIA"
+  city: Bengaluru
+  venue: Sheraton Grand Bangalore Hotel
+  display_date: 07 – 10 August 2019
+  start: 2019-08-07
+  end: 2019-08-10
+  website: https://india.odsc.com/
+  cfp: https://confengine.com/odsc-india-2019
+  scholarships: false
+  childcare: false
+  description: The Largest Applied Data Science & AI Conference Returns to India!
+
+- title: "Swift India"
+  city: Bengaluru
+  venue: The Grand Magrath Hotel
+  display_date: 28 July 2019
+  start: 2019-07-28
+  end: 2019-07-28
+  website: https://swiftindia.in/
+  cfp: https://faq.swiftindia.in/speaker-guidelines/
+  scholarships: https://faq.swiftindia.in/scholarships/
+  childcare: false
+  description: Swift India Conference is an international community gathering about the latest advancements in Apple technologies
+
+- title: "The Fifth Elephant 2019"
+  city: Bengaluru
+  venue: NIMHANS Convention Centre, Bangalore
+  display_date: 25 – 26 July 2019
+  start: 2019-07-25
+  end: 2019-07-26
+  website: https://hasgeek.com/fifthelephant/2019/
+  cfp: https://hasgeek.com/fifthelephant/2019/proposals#call-for-proposal
+  scholarships: false
+  childcare: true
+  description: The eighth edition of India's best data conference
+
+- title: "Anthill Inside 2019"
+  city: Bengaluru
+  venue: NIMHANS Convention Centre, Bangalore
+  display_date: 24 July 2019
+  start: 2019-07-24
+  end: 2019-07-24
+  website: https://hasgeek.com/anthillinside/2019/
+  cfp: https://hasgeek.com/anthillinside/2019/proposals#call-for-proposal
+  scholarships: false
+  childcare: true
+  description: "On infrastructure for AI and ML: from managing training data to data storage, cloud strategy and costs of developing ML models"
+
+- title: "Rootconf 2019"
+  city: Bengaluru
+  venue: NIMHANS Convention Centre, Bangalore
+  display_date: 21 – 22 June 2019
+  start: 2019-06-21
+  end: 2019-06-22
+  website: https://hasgeek.com/rootconf/2019/
+  cfp: https://hasgeek.com/rootconf/2019/proposals#call-for-proposal
+  scholarships: false
+  childcare: true
+  description: On infrastructure security, DevOps and distributed systems.
+
+- title: "Embeded DevCon"
+  city: Bengaluru
+  venue: Radisson Blu, Marathahalli, Bengaluru.
+  display_date: 10 June 2019
+  start: 2019-06-10
+  end: 2019-06-10
+  website: http://embeddeddevconindia.com/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: Embedded DevCon is designed to provide software and system developers the resources to understand and tackle complex challenges of developing a safe embedded system – from the Design to the Testing.
+
+- title: "Embeded DevCon"
+  city: Pune
+  venue: Novotel, Viman Nagar, Pune
+  display_date: 13 – 14 June 2019
+  start: 2019-06-13
+  end: 2019-06-14
+  website: http://embeddeddevconindia.com/
+  cfp: false
+  scholarships: false
+  childcare: false
+  description: Embedded DevCon is designed to provide software and system developers the resources to understand and tackle complex challenges of developing a safe embedded system – from the Design to the Testing.
+
+- title: "JSFoo Coimbatore 2019"
+  city: Coimbatore
+  venue: Fairfield by Marriott Coimbatore
+  display_date: 08 June 2019
+  start: 2019-06-08
+  end: 2019-06-08
+  website: https://hasgeek.com/jsfoo/2019-coimbatore/
+  cfp: https://hasgeek.com/jsfoo/2019-coimbatore/proposals#call-for-proposal
+  scholarships: false
+  childcare: true
+  description: On building a fast and secure web
