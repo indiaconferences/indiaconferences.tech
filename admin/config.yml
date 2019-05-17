@@ -1,6 +1,14 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  squash_merges: true
+
+site_url: https://indiaconferences.tech/
+display_url: indiaconferences.tech
+       
+# publish_mode: editorial_workflow
+
+
 # This line should *not* be indented
 media_folder: "uploads" # Media files will be stored in the repo under images/uploads
 collections:
@@ -15,5 +23,14 @@ collections:
             name: confs
             widget: list
             fields:
-              - {label: Label, name: label, widget: number}
-              - {label: Value, name: value, widget: number}
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "City", name: "city", widget: "string"}
+              - {label: "Venue", name: "venue", widget: "string"}
+              - {display_date: "Display Date", name: "display_date", widget: "string", default: "01 January 2019"}
+              - {label: "Start Date", name: "start", widget: "date", format: "YYYY-MM-DD"}
+              - {label: "End Date", name: "end", widget: "date", format: "YYYY-MM-DD"}
+              - {label: "Event Website", name: "website", widget: "string"}
+              - {label: "CFP? Link?", name: "cfp", widget: "string", default: "true, false, URL"}
+              - {label: "Scholarships? Link?", name: "scholarships", widget: "string", default: "true, false, URL"}
+              - {label: "Childcare? Link?", name: "childcare", widget: "string", default: "true, false, URL"}
+              - {label: "Description", name: "description", widget: "string"}
