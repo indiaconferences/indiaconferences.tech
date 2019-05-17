@@ -23,7 +23,7 @@ layout: compress
     <div class="content">
       <ul class="posts-list">
         
-        {% assign conferences = site.data.conferences | sort: 'start' %}
+        {% assign conferences = site.data.conferences.confs | sort: 'start' %}
         
         {% capture now %}{{ site.time | date: '%Y%m%d' | plus: 0 }}{%- endcapture %}
         

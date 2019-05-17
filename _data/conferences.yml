@@ -1,565 +1,566 @@
-- title: DevOps Days India 2018
-  city: Bengaluru
-  venue: Sheraton Grand, Bengaluru
-  display_date: 08 - 09 December 2018
-  start: 2018-12-08
-  end: 2018-12-09
-  website: https://devopsdaysindia.org/
-  cfp: https://devopsdaysindia.org/#cfp
-  scholarships: false
-  childcare: false
-  description: Devopsdays India is a global event complementing other Devopsdays events across the world. You can find more about Devopsdays global event here.
+confs:
+  - title: DevOps Days India 2018
+    city: Bengaluru
+    venue: Sheraton Grand, Bengaluru
+    display_date: 08 - 09 December 2018
+    start: 2018-12-08
+    end: 2018-12-09
+    website: https://devopsdaysindia.org/
+    cfp: https://devopsdaysindia.org/#cfp
+    scholarships: false
+    childcare: false
+    description: Devopsdays India is a global event complementing other Devopsdays events across the world. You can find more about Devopsdays global event here.
 
-- title: FunctionalConf
-  city: Bengaluru
-  venue: The Grand Magrath Hotel, Bengaluru
-  display_date: 12 – 16 December 2018
-  start: 2018-12-12
-  end: 2018-12-16
-  website: https://functionalconf.com/
-  cfp: https://functionalconf.com/speaker.html
-  scholarships: false
-  childcare: false
-  description: Asia's Premier Functional Programming Conference
+  - title: FunctionalConf
+    city: Bengaluru
+    venue: The Grand Magrath Hotel, Bengaluru
+    display_date: 12 – 16 December 2018
+    start: 2018-12-12
+    end: 2018-12-16
+    website: https://functionalconf.com/
+    cfp: https://functionalconf.com/speaker.html
+    scholarships: false
+    childcare: false
+    description: Asia's Premier Functional Programming Conference
 
-- title: SciPy India 2018
-  city: Mumbai
-  venue: IIT Bombay
-  display_date: 21 – 22 December 2018
-  start: 2018-12-21
-  end: 2018-12-22
-  website: https://scipy.in/2018
-  cfp: https://scipy.in/2018#contribution
-  scholarships: false
-  childcare: false
-  description: SciPy India is a conference providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India. 
+  - title: SciPy India 2018
+    city: Mumbai
+    venue: IIT Bombay
+    display_date: 21 – 22 December 2018
+    start: 2018-12-21
+    end: 2018-12-22
+    website: https://scipy.in/2018
+    cfp: https://scipy.in/2018#contribution
+    scholarships: false
+    childcare: false
+    description: SciPy India is a conference providing opportunities to spread the use of the Python programming language in the Scientific Computing community in India. 
 
-- title: INDICON 2018
-  city: Mumbai
-  venue: Amrita Vishwa Vidyapeetham, Coimbatore
-  display_date: 16 – 18 December 2018
-  start: 2018-12-16
-  end: 2018-12-18
-  website: http://indicon2018.in/
-  cfp: true
-  scholarships: false
-  childcare: false
-  description: INDICON is the flagship Annual International Conference of the IEEE India Council
-
-
-- title: Agile India 2019
-  city: Bengaluru
-  venue: Sheraton Grand, Bangalore
-  display_date: 18 – 23 March 2019
-  start: 2019-03-18
-  end: 2019-03-23
-  website: https://2019.agileindia.org/
-  cfp: https://confengine.com/agile-india-2019/proposals
-  scholarships: false
-  childcare: false
-  description: Asia's Largest and Premier International conference on Leading Edge Software Development Methods
-
-- title: AppiumConf
-  city: Bengaluru
-  venue: Sheraton Grand, Bangalore 
-  display_date: 13 – 15 June 2019
-  start: 2019-06-13
-  end: 2019-06-15
-  website: https://appiumconf.com/
-  cfp: https://confengine.com/appium-conf-2019/proposals
-  scholarships: false
-  childcare: false
-  description: Appiumconf bings together three-full days packed with inspiring and practical talks featuring the Appium team and the world's top mobile testing and automation experts.
-
-- title: "Discuss Agile: Regional Scrum Gathering Hyderabad"
-  city: Hyderabad
-  venue: Novotel Hyderabad Convention Centre
-  display_date: 29 – 30 March 2019
-  start: 2019-03-29
-  end: 2019-03-30
-  website: http://www.discussagile.com/
-  cfp: https://confengine.com/discuss-agile-regional-scrum-gathering-hyderabad/proposals
-  scholarships: false
-  childcare: false
-  description: Appiumconf bings together three-full days packed with inspiring and practical talks featuring the Appium team and the world's top mobile testing and automation experts.
+  - title: INDICON 2018
+    city: Mumbai
+    venue: Amrita Vishwa Vidyapeetham, Coimbatore
+    display_date: 16 – 18 December 2018
+    start: 2018-12-16
+    end: 2018-12-18
+    website: http://indicon2018.in/
+    cfp: true
+    scholarships: false
+    childcare: false
+    description: INDICON is the flagship Annual International Conference of the IEEE India Council
 
 
-- title: JSFoo Pune 2019
-  city: Pune
-  venue: MCCIA TRADE TOWER, Pune
-  display_date: 10 January 2019
-  start: 2019-01-10
-  end: 2019-01-10
-  website: https://jsfoo.in/2019-pune/
-  cfp: https://jsfoo.talkfunnel.com/2019-pune/
-  scholarships: false
-  childcare: false
-  description: The second Pune edition of India’s premier JavaScript conference
+  - title: Agile India 2019
+    city: Bengaluru
+    venue: Sheraton Grand, Bangalore
+    display_date: 18 – 23 March 2019
+    start: 2019-03-18
+    end: 2019-03-23
+    website: https://2019.agileindia.org/
+    cfp: https://confengine.com/agile-india-2019/proposals
+    scholarships: false
+    childcare: false
+    description: Asia's Largest and Premier International conference on Leading Edge Software Development Methods
 
-- title: GOPHERCON INDIA 2019
-  city: Goa
-  venue: Park Regis, Goa
-  display_date: 18 – 19 January 2019
-  start: 2019-01-18
-  end: 2019-01-19
-  website: https://gopherconindia.com/
-  cfp: https://gopherconindia.com/call-for-proposal/
-  scholarships: https://gopherconindia.com/scholarship/
-  childcare: false
-  description: The fifth Go conference in India, Go is an open source project developed by a team at Google and many contributors from the open source community.
+  - title: AppiumConf
+    city: Bengaluru
+    venue: Sheraton Grand, Bangalore 
+    display_date: 13 – 15 June 2019
+    start: 2019-06-13
+    end: 2019-06-15
+    website: https://appiumconf.com/
+    cfp: https://confengine.com/appium-conf-2019/proposals
+    scholarships: false
+    childcare: false
+    description: Appiumconf bings together three-full days packed with inspiring and practical talks featuring the Appium team and the world's top mobile testing and automation experts.
 
-- title: SACON 2019
-  city: Bengaluru
-  venue: TBD, Bengaluru
-  display_date: 15 – 16 February 2019
-  start: 2019-02-15
-  end: 2019-02-16
-  website: https://www.sacon.io/
-  cfp: https://www.sacon.io/call-for-speakers/
-  scholarships: false
-  childcare: false
-  description: SACON - INDIA'S ONLY SECURITY ARCHITECTURE CONFERENCE & TRAINING
+  - title: "Discuss Agile: Regional Scrum Gathering Hyderabad"
+    city: Hyderabad
+    venue: Novotel Hyderabad Convention Centre
+    display_date: 29 – 30 March 2019
+    start: 2019-03-29
+    end: 2019-03-30
+    website: http://www.discussagile.com/
+    cfp: https://confengine.com/discuss-agile-regional-scrum-gathering-hyderabad/proposals
+    scholarships: false
+    childcare: false
+    description: Appiumconf bings together three-full days packed with inspiring and practical talks featuring the Appium team and the world's top mobile testing and automation experts.
 
-- title: RUBYCONF INDIA 2019
-  city: Goa
-  venue: Hotel Park Regis, Goa
-  display_date: 20 – 21 January 2019
-  start: 2019-01-20
-  end: 2019-01-21
-  website: https://www.rubyconfindia.org/
-  cfp: https://www.papercall.io/rci19
-  scholarships: https://www.rubyconfindia.org/scholarship/
-  childcare: false
-  description: RubyConf India is a global event complementing other RubyConf events across the world.
 
-- title: Pragma 2019
-  city: Allahabad
-  venue: IIIT ALLAHABAD
-  display_date: 19 – 20 January 2019
-  start: 2019-01-19
-  end: 2019-01-20
-  website: http://pragmaconf.tech/
-  cfp: https://eventyay.com/e/a1fcaa21/cfs/
-  scholarships: false
-  childcare: false
-  description: Pragma is premier student developers’ conference held at IIIT-Allahabad. Attracting some of the best student developers from across India
+  - title: JSFoo Pune 2019
+    city: Pune
+    venue: MCCIA TRADE TOWER, Pune
+    display_date: 10 January 2019
+    start: 2019-01-10
+    end: 2019-01-10
+    website: https://jsfoo.in/2019-pune/
+    cfp: https://jsfoo.talkfunnel.com/2019-pune/
+    scholarships: false
+    childcare: false
+    description: The second Pune edition of India’s premier JavaScript conference
 
-- title: Fragments 2019
-  city: Bengaluru
-  venue: NIMHANS CONVENTION CENTRE, BANGALORE
-  display_date: 01 – 02 March 2019
-  start: 2019-03-01
-  end: 2019-03-02
-  website: https://fragments.in/2019/
-  cfp: https://fragments.talkfunnel.com/2019/
-  scholarships: false
-  childcare: true
-  description: Piece together the future of mobile development!, Fragments aims to provide a platform for those who have dealt with these issues at scale to share their approaches, tools, and lessons learned.
+  - title: GOPHERCON INDIA 2019
+    city: Goa
+    venue: Park Regis, Goa
+    display_date: 18 – 19 January 2019
+    start: 2019-01-18
+    end: 2019-01-19
+    website: https://gopherconindia.com/
+    cfp: https://gopherconindia.com/call-for-proposal/
+    scholarships: https://gopherconindia.com/scholarship/
+    childcare: false
+    description: The fifth Go conference in India, Go is an open source project developed by a team at Google and many contributors from the open source community.
 
-- title: Barcamp Bangalore Spring 2019
-  city: Bengaluru
-  venue: Dayanand Sagar University, Kudlu Gate, Bangalore
-  display_date: 02 February 2019
-  start: 2019-02-02
-  end: 2019-02-02
-  website: https://barcampbangalore.com/bcb/
-  cfp: https://barcampbangalore.com/bcb/add-a-session
-  scholarships: false
-  childcare: false
-  description: Barcamp Bangalore is an open event focused on people, ideas, and collaboration. There is no fixed format or agenda. We call it an un-conference. Barcamp is for and by the community.
+  - title: SACON 2019
+    city: Bengaluru
+    venue: TBD, Bengaluru
+    display_date: 15 – 16 February 2019
+    start: 2019-02-15
+    end: 2019-02-16
+    website: https://www.sacon.io/
+    cfp: https://www.sacon.io/call-for-speakers/
+    scholarships: false
+    childcare: false
+    description: SACON - INDIA'S ONLY SECURITY ARCHITECTURE CONFERENCE & TRAINING
 
-- title: Amazon AI Conclave 2018
-  city: Bengaluru
-  venue: ITC Gardenia Hotel, Bangalore
-  display_date: 13 – 14 December 2018
-  start: 2018-12-13
-  end: 2018-12-14
-  website: https://aws.amazon.com/events/ai_conclave/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: Amazon AI Conclave is a free event for business leaders, data scientists, engineers and developers to learn about Amazon's machine learning services, and real-world use cases developed by our customers
+  - title: RUBYCONF INDIA 2019
+    city: Goa
+    venue: Hotel Park Regis, Goa
+    display_date: 20 – 21 January 2019
+    start: 2019-01-20
+    end: 2019-01-21
+    website: https://www.rubyconfindia.org/
+    cfp: https://www.papercall.io/rci19
+    scholarships: https://www.rubyconfindia.org/scholarship/
+    childcare: false
+    description: RubyConf India is a global event complementing other RubyConf events across the world.
 
-- title: Rootconf 2019
-  city: Bengaluru
-  venue: NIMHANS CONVENTION CENTRE, BANGALORE
-  display_date: 21 – 22 June 2019
-  start: 2019-06-21
-  end: 2019-06-22
-  website: https://rootconf.in/2019/
-  cfp: https://hasgeek.com/rootconf/2019/
-  scholarships: false
-  childcare: true
-  description: A Conference on infrastructure security, cost optimisation, and distributed systems.
+  - title: Pragma 2019
+    city: Allahabad
+    venue: IIIT ALLAHABAD
+    display_date: 19 – 20 January 2019
+    start: 2019-01-19
+    end: 2019-01-20
+    website: http://pragmaconf.tech/
+    cfp: https://eventyay.com/e/a1fcaa21/cfs/
+    scholarships: false
+    childcare: false
+    description: Pragma is premier student developers’ conference held at IIIT-Allahabad. Attracting some of the best student developers from across India
 
-- title: GamerConnect 2018 Bangalore
-  city: Bengaluru
-  venue: Koramangala Indoor Stadium, Bengaluru
-  display_date: 15 – 16 December 2018
-  start: 2018-12-15
-  end: 2018-12-16
-  website: https://gamerconnect.in/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: GamerConnect is the largest gaming technology showcase platform in India and we are coming to Bangalore. This is going to be our last event of 2018 and the biggest of all so far. Get ready to experience the best of PC Gaming.
+  - title: Fragments 2019
+    city: Bengaluru
+    venue: NIMHANS CONVENTION CENTRE, BANGALORE
+    display_date: 01 – 02 March 2019
+    start: 2019-03-01
+    end: 2019-03-02
+    website: https://fragments.in/2019/
+    cfp: https://fragments.talkfunnel.com/2019/
+    scholarships: false
+    childcare: true
+    description: Piece together the future of mobile development!, Fragments aims to provide a platform for those who have dealt with these issues at scale to share their approaches, tools, and lessons learned.
 
-- title: ng-India
-  city: Delhi/NCR
-  venue: Fortune Select Excalibur, Gurgaon
-  display_date: 23 February 2019
-  start: 2019-02-23
-  end: 2019-02-23
-  website: https://www.ng-ind.com/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: India's Angular Conference!
+  - title: Barcamp Bangalore Spring 2019
+    city: Bengaluru
+    venue: Dayanand Sagar University, Kudlu Gate, Bangalore
+    display_date: 02 February 2019
+    start: 2019-02-02
+    end: 2019-02-02
+    website: https://barcampbangalore.com/bcb/
+    cfp: https://barcampbangalore.com/bcb/add-a-session
+    scholarships: false
+    childcare: false
+    description: Barcamp Bangalore is an open event focused on people, ideas, and collaboration. There is no fixed format or agenda. We call it an un-conference. Barcamp is for and by the community.
 
-- title: India HCI 2018
-  city: Bengaluru
-  venue: Bangalore International Exehibition Center
-  display_date: 16 – 18 December 2018
-  start: 2018-12-16
-  end: 2018-12-18
-  website: https://www.indiahci.org/2018/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: The screen till now is the dominant paradigm of interacting with digital technology.
+  - title: Amazon AI Conclave 2018
+    city: Bengaluru
+    venue: ITC Gardenia Hotel, Bangalore
+    display_date: 13 – 14 December 2018
+    start: 2018-12-13
+    end: 2018-12-14
+    website: https://aws.amazon.com/events/ai_conclave/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: Amazon AI Conclave is a free event for business leaders, data scientists, engineers and developers to learn about Amazon's machine learning services, and real-world use cases developed by our customers
 
-- title: OWASP SEASIDES
-  city: GOA
-  venue: GOA
-  display_date: 27 – 28 February 2019
-  start: 2019-02-27
-  end: 2019-02-28
-  website: https://www.owaspseasides.com 
-  cfp: https://www.owaspseasides.com/cfp
-  scholarships: false
-  childcare: false
-  description: Through OWASP Bangalore chapter aims to provide free of cost premium workshops and talks to all the participants.
+  - title: Rootconf 2019
+    city: Bengaluru
+    venue: NIMHANS CONVENTION CENTRE, BANGALORE
+    display_date: 21 – 22 June 2019
+    start: 2019-06-21
+    end: 2019-06-22
+    website: https://rootconf.in/2019/
+    cfp: https://hasgeek.com/rootconf/2019/
+    scholarships: false
+    childcare: true
+    description: A Conference on infrastructure security, cost optimisation, and distributed systems.
 
-- title: Carnegie Global Technology Summit
-  city: Bengaluru
-  venue: Hotel Leela Palace, Bengaluru
-  display_date: 17 – 19 December 2018
-  start: 2018-12-17
-  end: 2018-12-19
-  website: https://carnegieindia.org/2018/12/19/global-technology-summit-2018-event-6944
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: "This year’s Summit focuses on the theme, Technology and Society: Getting the Balance Right."
+  - title: GamerConnect 2018 Bangalore
+    city: Bengaluru
+    venue: Koramangala Indoor Stadium, Bengaluru
+    display_date: 15 – 16 December 2018
+    start: 2018-12-15
+    end: 2018-12-16
+    website: https://gamerconnect.in/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: GamerConnect is the largest gaming technology showcase platform in India and we are coming to Bangalore. This is going to be our last event of 2018 and the biggest of all so far. Get ready to experience the best of PC Gaming.
 
-- title: Agility Today
-  city: Delhi/NCR
-  venue: THE LEELA, GURUGRAM
-  display_date: 23 – 24 February 2019
-  start: 2019-02-24
-  end: 2019-02-23
-  website: https://agilitytoday.com/
-  cfp: https://agilitytoday.com/proposals.html
-  scholarships: false
-  childcare: false
-  description: Be Part of The Revolution!Be Part of The Shift!
+  - title: ng-India
+    city: Delhi/NCR
+    venue: Fortune Select Excalibur, Gurgaon
+    display_date: 23 February 2019
+    start: 2019-02-23
+    end: 2019-02-23
+    website: https://www.ng-ind.com/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: India's Angular Conference!
 
-- title: global diversity CFP day
-  city: Other
-  venue: Internet
-  display_date: 02 March 2019
-  start: 2019-03-02
-  end: 2019-03-02
-  website: https://www.globaldiversitycfpday.com/
-  cfp: https://www.globaldiversitycfpday.com/organise
-  scholarships: false
-  childcare: false
-  description: Have you always wanted to become a tech conference speaker?
+  - title: India HCI 2018
+    city: Bengaluru
+    venue: Bangalore International Exehibition Center
+    display_date: 16 – 18 December 2018
+    start: 2018-12-16
+    end: 2018-12-18
+    website: https://www.indiahci.org/2018/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: The screen till now is the dominant paradigm of interacting with digital technology.
 
-- title: Great International Developer Summit
-  city: Bengaluru
-  venue: IISc, Bangalore
-  display_date: 22 – 26 April 2019
-  start: 2019-04-22
-  end: 2019-04-26
-  website: https://www.developermarch.com/developersummit/index.html
-  cfp: https://developermarch.com/developersummit/cfp/callForProposals.html
-  scholarships: false
-  childcare: false
-  description: 12 Years Of Developer Awesomeness!
+  - title: OWASP SEASIDES
+    city: GOA
+    venue: GOA
+    display_date: 27 – 28 February 2019
+    start: 2019-02-27
+    end: 2019-02-28
+    website: https://www.owaspseasides.com 
+    cfp: https://www.owaspseasides.com/cfp
+    scholarships: false
+    childcare: false
+    description: Through OWASP Bangalore chapter aims to provide free of cost premium workshops and talks to all the participants.
 
-- title: GirlScript India Summit 2018
-  city: Nagpur
-  venue: PBCOE Nagpur
-  display_date: 15 – 16 Decmeber 2018
-  start: 2018-12-15
-  end: 2018-12-16
-  website: http://girlscriptsummit.tech/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: GirlScript is the fastest growing tech-community in India. It is a non-profit project brought to you by GirlScript Foundation to help beginners in technology. Be a part, spread knowledge & happiness.
+  - title: Carnegie Global Technology Summit
+    city: Bengaluru
+    venue: Hotel Leela Palace, Bengaluru
+    display_date: 17 – 19 December 2018
+    start: 2018-12-17
+    end: 2018-12-19
+    website: https://carnegieindia.org/2018/12/19/global-technology-summit-2018-event-6944
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: "This year’s Summit focuses on the theme, Technology and Society: Getting the Balance Right."
 
-- title: A tiny conference about React
-  city: Bengaluru
-  venue: GeekyAnts Software, BTM 2nd Stage, Bengaluru
-  display_date: 05 January 2019
-  start: 2019-01-05
-  end: 2019-01-05
-  website: https://tinyconf.in/
-  cfp: false
-  scholarships: https://tinyconf.in/scholarship
-  childcare: false
-  description: "Small group, meaningful conversations: tinyconf is a not for profit conference that aims to bring the react community together to have conversations beyond the \"how\" with 8 talks and just 25 attendees. The conference is designed to involve everyone in the discourse with short talks and plenty of time for discussions and follow-up conversations."
+  - title: Agility Today
+    city: Delhi/NCR
+    venue: THE LEELA, GURUGRAM
+    display_date: 23 – 24 February 2019
+    start: 2019-02-24
+    end: 2019-02-23
+    website: https://agilitytoday.com/
+    cfp: https://agilitytoday.com/proposals.html
+    scholarships: false
+    childcare: false
+    description: Be Part of The Revolution!Be Part of The Shift!
 
-- title: UI Nxt
-  city: Pune
-  venue: Pune
-  display_date: 19 January 2019
-  start: 2019-01-19
-  end: 2019-01-19
-  website: https://uinxt.globant.com/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: UI Nxt is a platform for UI enthusiasts to come and learn about the current as well as emerging trends in the UI ecosystem. We welcome all UI afficionados to attend this event and make the best of this opportunity to learn from their peers.
+  - title: global diversity CFP day
+    city: Other
+    venue: Internet
+    display_date: 02 March 2019
+    start: 2019-03-02
+    end: 2019-03-02
+    website: https://www.globaldiversitycfpday.com/
+    cfp: https://www.globaldiversitycfpday.com/organise
+    scholarships: false
+    childcare: false
+    description: Have you always wanted to become a tech conference speaker?
 
-- title: "DevDay: Explore AI on Arm"
-  city: Online
-  venue: Internet
-  display_date: 22 January 2019
-  start: 2019-01-22
-  end: 2019-01-22
-  website: https://events.hackster.io/armdevday
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: Learn about some of the key building blocks needed to develop intelligent machines. This one-day, online interactive event will give you experience with machine learning, voice recognition and computer vision.
+  - title: Great International Developer Summit
+    city: Bengaluru
+    venue: IISc, Bangalore
+    display_date: 22 – 26 April 2019
+    start: 2019-04-22
+    end: 2019-04-26
+    website: https://www.developermarch.com/developersummit/index.html
+    cfp: https://developermarch.com/developersummit/cfp/callForProposals.html
+    scholarships: false
+    childcare: false
+    description: 12 Years Of Developer Awesomeness!
 
-- title: "Machine learning Developers Summit 2019 (MLDS19)"
-  city: Bengaluru
-  venue: NIMHANS CONVENTIONS CENTER, BENGALURU
-  display_date: 30 – 31 January 2019
-  start: 2019-01-30
-  end: 2019-01-31
-  website: https://www.mlds.analyticsindiasummit.com/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: MLDS19 brings together the India’s leading Machine Learning innovators and practitioners to share their ideas and experience about machine learning tools, advanced development in this sphere and gives the attendees a first look at new trends & developer products.
+  - title: GirlScript India Summit 2018
+    city: Nagpur
+    venue: PBCOE Nagpur
+    display_date: 15 – 16 Decmeber 2018
+    start: 2018-12-15
+    end: 2018-12-16
+    website: http://girlscriptsummit.tech/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: GirlScript is the fastest growing tech-community in India. It is a non-profit project brought to you by GirlScript Foundation to help beginners in technology. Be a part, spread knowledge & happiness.
 
-- title: "Hosting & Domain Conference"
-  city: Hyderabad
-  venue: Radisson Hyderabad Hitec City, Hyderabad, India
-  display_date: 02 February 2019
-  start: 2019-02-02
-  end: 2019-02-02
-  website: https://www.hdcon.org/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: Hosting and Domain Conference is the World's Top initiative to discuss on latest happenings in the field of web technologies. Hosting, Domain, Blogging and Web technologies are major discussions.
+  - title: A tiny conference about React
+    city: Bengaluru
+    venue: GeekyAnts Software, BTM 2nd Stage, Bengaluru
+    display_date: 05 January 2019
+    start: 2019-01-05
+    end: 2019-01-05
+    website: https://tinyconf.in/
+    cfp: false
+    scholarships: https://tinyconf.in/scholarship
+    childcare: false
+    description: "Small group, meaningful conversations: tinyconf is a not for profit conference that aims to bring the react community together to have conversations beyond the \"how\" with 8 talks and just 25 attendees. The conference is designed to involve everyone in the discourse with short talks and plenty of time for discussions and follow-up conversations."
 
-- title: "Outcome 2019"
-  city: Chandigarh
-  venue: SPIC Centre, EDC, RG Technology Park, Chandigarh
-  display_date: 09 February 2019
-  start: 2019-02-09
-  end: 2019-02-09
-  website: http://outcomeconf.com/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: OUTCOME. STORYTELLING AND UX DESIGN
+  - title: UI Nxt
+    city: Pune
+    venue: Pune
+    display_date: 19 January 2019
+    start: 2019-01-19
+    end: 2019-01-19
+    website: https://uinxt.globant.com/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: UI Nxt is a platform for UI enthusiasts to come and learn about the current as well as emerging trends in the UI ecosystem. We welcome all UI afficionados to attend this event and make the best of this opportunity to learn from their peers.
 
-- title: "DSConf 2019"
-  city: Pune
-  venue: Hotel Novotel, Pune, Maharashtra
-  display_date: 16 February 2019
-  start: 2019-02-16
-  end: 2019-02-16
-  website: https://dsconf.in/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: Distributed Systems Conference
+  - title: "DevDay: Explore AI on Arm"
+    city: Online
+    venue: Internet
+    display_date: 22 January 2019
+    start: 2019-01-22
+    end: 2019-01-22
+    website: https://events.hackster.io/armdevday
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: Learn about some of the key building blocks needed to develop intelligent machines. This one-day, online interactive event will give you experience with machine learning, voice recognition and computer vision.
 
-- title: "nullcon"
-  city: Goa
-  venue: HOLIDAY INN RESORT, GOA
-  display_date: 01 – 02 March 2019
-  start: 2019-03-01
-  end: 2019-03-02
-  website: https://nullcon.net/website/
-  cfp: https://nullcon.net/website/goa-2019/cfp.php
-  scholarships: false
-  childcare: false
-  description: International Security Conference
+  - title: "Machine learning Developers Summit 2019 (MLDS19)"
+    city: Bengaluru
+    venue: NIMHANS CONVENTIONS CENTER, BENGALURU
+    display_date: 30 – 31 January 2019
+    start: 2019-01-30
+    end: 2019-01-31
+    website: https://www.mlds.analyticsindiasummit.com/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: MLDS19 brings together the India’s leading Machine Learning innovators and practitioners to share their ideas and experience about machine learning tools, advanced development in this sphere and gives the attendees a first look at new trends & developer products.
 
-- title: "WE Local"
-  city: Bengaluru
-  venue: Sheraton Grand Bengaluru Whitefield Hotel & Convention Center
-  display_date: 11 – 13 April 2019
-  start: 2019-04-11
-  end: 2019-04-13
-  website: https://welocal.swe.org/bengaluru/location/
-  cfp: https://welocal.swe.org/bengaluru/schedule/become-a-speaker-at-we-local-india/
-  scholarships: https://welocal.swe.org/about/travel-grants-available-for-we-local/
-  childcare: false
-  description: Join SWE for the fourth annual WE Local India conference in Bengaluru. WE Local India will provide the opportunity for women in engineering to advance in their careers and connect with like-minded professionals.
+  - title: "Hosting & Domain Conference"
+    city: Hyderabad
+    venue: Radisson Hyderabad Hitec City, Hyderabad, India
+    display_date: 02 February 2019
+    start: 2019-02-02
+    end: 2019-02-02
+    website: https://www.hdcon.org/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: Hosting and Domain Conference is the World's Top initiative to discuss on latest happenings in the field of web technologies. Hosting, Domain, Blogging and Web technologies are major discussions.
 
-- title: "India Cloud Summit 2019"
-  city: Bengaluru
-  venue: Radisson Blu Bengaluru Outer Ring Road.
-  display_date: 15 February 2019
-  start: 2019-02-15
-  end: 2019-02-15
-  website: https://www.indiacloudsummit.com/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: India Cloud Summit is the one place to explore new ideas & learn from industry experts.
+  - title: "Outcome 2019"
+    city: Chandigarh
+    venue: SPIC Centre, EDC, RG Technology Park, Chandigarh
+    display_date: 09 February 2019
+    start: 2019-02-09
+    end: 2019-02-09
+    website: http://outcomeconf.com/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: OUTCOME. STORYTELLING AND UX DESIGN
 
-- title: "AGILE MUMBAI"
-  city: Mumbai
-  venue: Hilton Mumbai International Airport
-  display_date: 21 – 22 January 2019
-  start: 2019-01-21
-  end: 2019-01-22
-  website: http://www.agilemumbai.com/
-  cfp: http://www.agilemumbai.com/#call-for-action
-  scholarships: false
-  childcare: false
-  description: Agile Mumbai is community organised event under the umbrella of Agile Network India.
+  - title: "DSConf 2019"
+    city: Pune
+    venue: Hotel Novotel, Pune, Maharashtra
+    display_date: 16 February 2019
+    start: 2019-02-16
+    end: 2019-02-16
+    website: https://dsconf.in/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: Distributed Systems Conference
 
-- title: "devon summit 2019"
-  city: Bengaluru
-  venue: Hilton Mumbai International Airport
-  display_date: 22 February 2019
-  start: 2019-02-22
-  end: 2019-02-22
-  website: https://devonsummit.in/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: The most valuable DevOps and Digital Transformation event of the year!
+  - title: "nullcon"
+    city: Goa
+    venue: HOLIDAY INN RESORT, GOA
+    display_date: 01 – 02 March 2019
+    start: 2019-03-01
+    end: 2019-03-02
+    website: https://nullcon.net/website/
+    cfp: https://nullcon.net/website/goa-2019/cfp.php
+    scholarships: false
+    childcare: false
+    description: International Security Conference
 
-- title: "REACT INDIA"
-  city: Goa
-  venue: Goa
-  display_date: 26 – 28 September 2019
-  start: 2019-09-26
-  end: 2019-09-28
-  website: https://reactindia.io/
-  cfp: http://bit.ly/cfp-reactindia 
-  scholarships: https://www.notion.so/Scholarship-Program-React-India-2019-490794dd0a464db0a43b4c8c5440839f
-  childcare: false
-  description: React India is an international community-led non-profit initiative that provides a platform for developers to share and discuss their insights and experiences with React. The three-day conference is the first of its kind in India.
+  - title: "WE Local"
+    city: Bengaluru
+    venue: Sheraton Grand Bengaluru Whitefield Hotel & Convention Center
+    display_date: 11 – 13 April 2019
+    start: 2019-04-11
+    end: 2019-04-13
+    website: https://welocal.swe.org/bengaluru/location/
+    cfp: https://welocal.swe.org/bengaluru/schedule/become-a-speaker-at-we-local-india/
+    scholarships: https://welocal.swe.org/about/travel-grants-available-for-we-local/
+    childcare: false
+    description: Join SWE for the fourth annual WE Local India conference in Bengaluru. WE Local India will provide the opportunity for women in engineering to advance in their careers and connect with like-minded professionals.
 
-- title: "JSFoo: VueDay 2019"
-  city: Bengaluru
-  venue: Bangalore International Centre, Domlur, Bangalore
-  display_date: 30 August 2019
-  start: 2019-08-30
-  end: 2019-08-30
-  website: https://hasgeek.com/jsfoo/2019-vueday/
-  cfp: https://hasgeek.com/jsfoo/2019-vueday/proposals#call-for-proposal
-  scholarships: false
-  childcare: true
-  description: A day spent discussing Vue.js, developments in the Vue ecosystem and component architecture.
+  - title: "India Cloud Summit 2019"
+    city: Bengaluru
+    venue: Radisson Blu Bengaluru Outer Ring Road.
+    display_date: 15 February 2019
+    start: 2019-02-15
+    end: 2019-02-15
+    website: https://www.indiacloudsummit.com/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: India Cloud Summit is the one place to explore new ideas & learn from industry experts.
 
-- title: "ODSC INDIA"
-  city: Bengaluru
-  venue: Sheraton Grand Bangalore Hotel
-  display_date: 07 – 10 August 2019
-  start: 2019-08-07
-  end: 2019-08-10
-  website: https://india.odsc.com/
-  cfp: https://confengine.com/odsc-india-2019
-  scholarships: false
-  childcare: false
-  description: The Largest Applied Data Science & AI Conference Returns to India!
+  - title: "AGILE MUMBAI"
+    city: Mumbai
+    venue: Hilton Mumbai International Airport
+    display_date: 21 – 22 January 2019
+    start: 2019-01-21
+    end: 2019-01-22
+    website: http://www.agilemumbai.com/
+    cfp: http://www.agilemumbai.com/#call-for-action
+    scholarships: false
+    childcare: false
+    description: Agile Mumbai is community organised event under the umbrella of Agile Network India.
 
-- title: "Swift India"
-  city: Bengaluru
-  venue: The Grand Magrath Hotel
-  display_date: 28 July 2019
-  start: 2019-07-28
-  end: 2019-07-28
-  website: https://swiftindia.in/
-  cfp: https://faq.swiftindia.in/speaker-guidelines/
-  scholarships: https://faq.swiftindia.in/scholarships/
-  childcare: false
-  description: Swift India Conference is an international community gathering about the latest advancements in Apple technologies
+  - title: "devon summit 2019"
+    city: Bengaluru
+    venue: Hilton Mumbai International Airport
+    display_date: 22 February 2019
+    start: 2019-02-22
+    end: 2019-02-22
+    website: https://devonsummit.in/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: The most valuable DevOps and Digital Transformation event of the year!
 
-- title: "The Fifth Elephant 2019"
-  city: Bengaluru
-  venue: NIMHANS Convention Centre, Bangalore
-  display_date: 25 – 26 July 2019
-  start: 2019-07-25
-  end: 2019-07-26
-  website: https://hasgeek.com/fifthelephant/2019/
-  cfp: https://hasgeek.com/fifthelephant/2019/proposals#call-for-proposal
-  scholarships: false
-  childcare: true
-  description: The eighth edition of India's best data conference
+  - title: "REACT INDIA"
+    city: Goa
+    venue: Goa
+    display_date: 26 – 28 September 2019
+    start: 2019-09-26
+    end: 2019-09-28
+    website: https://reactindia.io/
+    cfp: http://bit.ly/cfp-reactindia 
+    scholarships: https://www.notion.so/Scholarship-Program-React-India-2019-490794dd0a464db0a43b4c8c5440839f
+    childcare: false
+    description: React India is an international community-led non-profit initiative that provides a platform for developers to share and discuss their insights and experiences with React. The three-day conference is the first of its kind in India.
 
-- title: "Anthill Inside 2019"
-  city: Bengaluru
-  venue: NIMHANS Convention Centre, Bangalore
-  display_date: 24 July 2019
-  start: 2019-07-24
-  end: 2019-07-24
-  website: https://hasgeek.com/anthillinside/2019/
-  cfp: https://hasgeek.com/anthillinside/2019/proposals#call-for-proposal
-  scholarships: false
-  childcare: true
-  description: "On infrastructure for AI and ML: from managing training data to data storage, cloud strategy and costs of developing ML models"
+  - title: "JSFoo: VueDay 2019"
+    city: Bengaluru
+    venue: Bangalore International Centre, Domlur, Bangalore
+    display_date: 30 August 2019
+    start: 2019-08-30
+    end: 2019-08-30
+    website: https://hasgeek.com/jsfoo/2019-vueday/
+    cfp: https://hasgeek.com/jsfoo/2019-vueday/proposals#call-for-proposal
+    scholarships: false
+    childcare: true
+    description: A day spent discussing Vue.js, developments in the Vue ecosystem and component architecture.
 
-- title: "Rootconf 2019"
-  city: Bengaluru
-  venue: NIMHANS Convention Centre, Bangalore
-  display_date: 21 – 22 June 2019
-  start: 2019-06-21
-  end: 2019-06-22
-  website: https://hasgeek.com/rootconf/2019/
-  cfp: https://hasgeek.com/rootconf/2019/proposals#call-for-proposal
-  scholarships: false
-  childcare: true
-  description: On infrastructure security, DevOps and distributed systems.
+  - title: "ODSC INDIA"
+    city: Bengaluru
+    venue: Sheraton Grand Bangalore Hotel
+    display_date: 07 – 10 August 2019
+    start: 2019-08-07
+    end: 2019-08-10
+    website: https://india.odsc.com/
+    cfp: https://confengine.com/odsc-india-2019
+    scholarships: false
+    childcare: false
+    description: The Largest Applied Data Science & AI Conference Returns to India!
 
-- title: "Embeded DevCon"
-  city: Bengaluru
-  venue: Radisson Blu, Marathahalli, Bengaluru.
-  display_date: 10 June 2019
-  start: 2019-06-10
-  end: 2019-06-10
-  website: http://embeddeddevconindia.com/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: Embedded DevCon is designed to provide software and system developers the resources to understand and tackle complex challenges of developing a safe embedded system – from the Design to the Testing.
+  - title: "Swift India"
+    city: Bengaluru
+    venue: The Grand Magrath Hotel
+    display_date: 28 July 2019
+    start: 2019-07-28
+    end: 2019-07-28
+    website: https://swiftindia.in/
+    cfp: https://faq.swiftindia.in/speaker-guidelines/
+    scholarships: https://faq.swiftindia.in/scholarships/
+    childcare: false
+    description: Swift India Conference is an international community gathering about the latest advancements in Apple technologies
 
-- title: "Embeded DevCon"
-  city: Pune
-  venue: Novotel, Viman Nagar, Pune
-  display_date: 13 – 14 June 2019
-  start: 2019-06-13
-  end: 2019-06-14
-  website: http://embeddeddevconindia.com/
-  cfp: false
-  scholarships: false
-  childcare: false
-  description: Embedded DevCon is designed to provide software and system developers the resources to understand and tackle complex challenges of developing a safe embedded system – from the Design to the Testing.
+  - title: "The Fifth Elephant 2019"
+    city: Bengaluru
+    venue: NIMHANS Convention Centre, Bangalore
+    display_date: 25 – 26 July 2019
+    start: 2019-07-25
+    end: 2019-07-26
+    website: https://hasgeek.com/fifthelephant/2019/
+    cfp: https://hasgeek.com/fifthelephant/2019/proposals#call-for-proposal
+    scholarships: false
+    childcare: true
+    description: The eighth edition of India's best data conference
 
-- title: "JSFoo Coimbatore 2019"
-  city: Coimbatore
-  venue: Fairfield by Marriott Coimbatore
-  display_date: 08 June 2019
-  start: 2019-06-08
-  end: 2019-06-08
-  website: https://hasgeek.com/jsfoo/2019-coimbatore/
-  cfp: https://hasgeek.com/jsfoo/2019-coimbatore/proposals#call-for-proposal
-  scholarships: false
-  childcare: true
-  description: On building a fast and secure web
+  - title: "Anthill Inside 2019"
+    city: Bengaluru
+    venue: NIMHANS Convention Centre, Bangalore
+    display_date: 24 July 2019
+    start: 2019-07-24
+    end: 2019-07-24
+    website: https://hasgeek.com/anthillinside/2019/
+    cfp: https://hasgeek.com/anthillinside/2019/proposals#call-for-proposal
+    scholarships: false
+    childcare: true
+    description: "On infrastructure for AI and ML: from managing training data to data storage, cloud strategy and costs of developing ML models"
+
+  - title: "Rootconf 2019"
+    city: Bengaluru
+    venue: NIMHANS Convention Centre, Bangalore
+    display_date: 21 – 22 June 2019
+    start: 2019-06-21
+    end: 2019-06-22
+    website: https://hasgeek.com/rootconf/2019/
+    cfp: https://hasgeek.com/rootconf/2019/proposals#call-for-proposal
+    scholarships: false
+    childcare: true
+    description: On infrastructure security, DevOps and distributed systems.
+
+  - title: "Embeded DevCon"
+    city: Bengaluru
+    venue: Radisson Blu, Marathahalli, Bengaluru.
+    display_date: 10 June 2019
+    start: 2019-06-10
+    end: 2019-06-10
+    website: http://embeddeddevconindia.com/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: Embedded DevCon is designed to provide software and system developers the resources to understand and tackle complex challenges of developing a safe embedded system – from the Design to the Testing.
+
+  - title: "Embeded DevCon"
+    city: Pune
+    venue: Novotel, Viman Nagar, Pune
+    display_date: 13 – 14 June 2019
+    start: 2019-06-13
+    end: 2019-06-14
+    website: http://embeddeddevconindia.com/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: Embedded DevCon is designed to provide software and system developers the resources to understand and tackle complex challenges of developing a safe embedded system – from the Design to the Testing.
+
+  - title: "JSFoo Coimbatore 2019"
+    city: Coimbatore
+    venue: Fairfield by Marriott Coimbatore
+    display_date: 08 June 2019
+    start: 2019-06-08
+    end: 2019-06-08
+    website: https://hasgeek.com/jsfoo/2019-coimbatore/
+    cfp: https://hasgeek.com/jsfoo/2019-coimbatore/proposals#call-for-proposal
+    scholarships: false
+    childcare: true
+    description: On building a fast and secure web
