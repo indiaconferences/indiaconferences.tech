@@ -72,7 +72,7 @@ confs:
     childcare: false
     description: Appiumconf bings together three-full days packed with inspiring and practical talks featuring the Appium team and the world's top mobile testing and automation experts.
 
-  - title: "Discuss Agile: Regional Scrum Gathering Hyderabad"
+  - title: Discuss Agile - Regional Scrum Gathering Hyderabad
     city: Hyderabad
     venue: Novotel Hyderabad Convention Centre
     display_date: 29 – 30 March 2019
@@ -251,7 +251,7 @@ confs:
     cfp: false
     scholarships: false
     childcare: false
-    description: "This year’s Summit focuses on the theme, Technology and Society: Getting the Balance Right."
+    description: This year’s Summit focuses on the theme, Technology and Society - Getting the Balance Right.
 
   - title: Agility Today
     city: Delhi/NCR
@@ -311,7 +311,7 @@ confs:
     cfp: false
     scholarships: https://tinyconf.in/scholarship
     childcare: false
-    description: "Small group, meaningful conversations: tinyconf is a not for profit conference that aims to bring the react community together to have conversations beyond the \"how\" with 8 talks and just 25 attendees. The conference is designed to involve everyone in the discourse with short talks and plenty of time for discussions and follow-up conversations."
+    description: Small group, meaningful conversations - tinyconf is a not for profit conference that aims to bring the react community together to have conversations beyond the \"how\" with 8 talks and just 25 attendees. The conference is designed to involve everyone in the discourse with short talks and plenty of time for discussions and follow-up conversations.
 
   - title: UI Nxt
     city: Pune
@@ -325,7 +325,7 @@ confs:
     childcare: false
     description: UI Nxt is a platform for UI enthusiasts to come and learn about the current as well as emerging trends in the UI ecosystem. We welcome all UI afficionados to attend this event and make the best of this opportunity to learn from their peers.
 
-  - title: "DevDay: Explore AI on Arm"
+  - title: DevDay - Explore AI on Arm
     city: Online
     venue: Internet
     display_date: 22 January 2019
@@ -337,7 +337,7 @@ confs:
     childcare: false
     description: Learn about some of the key building blocks needed to develop intelligent machines. This one-day, online interactive event will give you experience with machine learning, voice recognition and computer vision.
 
-  - title: "Machine learning Developers Summit 2019 (MLDS19)"
+  - title: Machine learning Developers Summit 2019 (MLDS19)
     city: Bengaluru
     venue: NIMHANS CONVENTIONS CENTER, BENGALURU
     display_date: 30 – 31 January 2019
@@ -349,7 +349,7 @@ confs:
     childcare: false
     description: MLDS19 brings together the India’s leading Machine Learning innovators and practitioners to share their ideas and experience about machine learning tools, advanced development in this sphere and gives the attendees a first look at new trends & developer products.
 
-  - title: "Hosting & Domain Conference"
+  - title: Hosting & Domain Conference
     city: Hyderabad
     venue: Radisson Hyderabad Hitec City, Hyderabad, India
     display_date: 02 February 2019
@@ -361,7 +361,7 @@ confs:
     childcare: false
     description: Hosting and Domain Conference is the World's Top initiative to discuss on latest happenings in the field of web technologies. Hosting, Domain, Blogging and Web technologies are major discussions.
 
-  - title: "Outcome 2019"
+  - title: Outcome 2019
     city: Chandigarh
     venue: SPIC Centre, EDC, RG Technology Park, Chandigarh
     display_date: 09 February 2019
@@ -373,7 +373,7 @@ confs:
     childcare: false
     description: OUTCOME. STORYTELLING AND UX DESIGN
 
-  - title: "DSConf 2019"
+  - title: DSConf 2019
     city: Pune
     venue: Hotel Novotel, Pune, Maharashtra
     display_date: 16 February 2019
@@ -385,7 +385,7 @@ confs:
     childcare: false
     description: Distributed Systems Conference
 
-  - title: "nullcon"
+  - title: nullcon
     city: Goa
     venue: HOLIDAY INN RESORT, GOA
     display_date: 01 – 02 March 2019
@@ -397,7 +397,7 @@ confs:
     childcare: false
     description: International Security Conference
 
-  - title: "WE Local"
+  - title: WE Local
     city: Bengaluru
     venue: Sheraton Grand Bengaluru Whitefield Hotel & Convention Center
     display_date: 11 – 13 April 2019
@@ -409,7 +409,7 @@ confs:
     childcare: false
     description: Join SWE for the fourth annual WE Local India conference in Bengaluru. WE Local India will provide the opportunity for women in engineering to advance in their careers and connect with like-minded professionals.
 
-  - title: "India Cloud Summit 2019"
+  - title: India Cloud Summit 2019
     city: Bengaluru
     venue: Radisson Blu Bengaluru Outer Ring Road.
     display_date: 15 February 2019
@@ -421,7 +421,7 @@ confs:
     childcare: false
     description: India Cloud Summit is the one place to explore new ideas & learn from industry experts.
 
-  - title: "AGILE MUMBAI"
+  - title: AGILE MUMBAI
     city: Mumbai
     venue: Hilton Mumbai International Airport
     display_date: 21 – 22 January 2019
@@ -433,7 +433,7 @@ confs:
     childcare: false
     description: Agile Mumbai is community organised event under the umbrella of Agile Network India.
 
-  - title: "devon summit 2019"
+  - title: devon summit 2019
     city: Bengaluru
     venue: Hilton Mumbai International Airport
     display_date: 22 February 2019
@@ -445,7 +445,7 @@ confs:
     childcare: false
     description: The most valuable DevOps and Digital Transformation event of the year!
 
-  - title: "REACT INDIA"
+  - title: REACT INDIA
     city: Goa
     venue: Goa
     display_date: 26 – 28 September 2019
@@ -457,9 +457,9 @@ confs:
     childcare: false
     description: React India is an international community-led non-profit initiative that provides a platform for developers to share and discuss their insights and experiences with React. The three-day conference is the first of its kind in India.
 
-  - title: "JSFoo: VueDay 2019"
+  - title: JSFoo - VueDay 2019
     city: Bengaluru
-    venue: Bangalore International Centre, Domlur, Bangalore
+    venue: Bangalore Internaional Centre, Domlur, Bangalore
     display_date: 30 August 2019
     start: 2019-08-30
     end: 2019-08-30
@@ -469,7 +469,7 @@ confs:
     childcare: true
     description: A day spent discussing Vue.js, developments in the Vue ecosystem and component architecture.
 
-  - title: "ODSC INDIA"
+  - title: ODSC INDIA
     city: Bengaluru
     venue: Sheraton Grand Bangalore Hotel
     display_date: 07 – 10 August 2019
@@ -481,7 +481,7 @@ confs:
     childcare: false
     description: The Largest Applied Data Science & AI Conference Returns to India!
 
-  - title: "Swift India"
+  - title: Swift India
     city: Bengaluru
     venue: The Grand Magrath Hotel
     display_date: 28 July 2019
@@ -493,7 +493,7 @@ confs:
     childcare: false
     description: Swift India Conference is an international community gathering about the latest advancements in Apple technologies
 
-  - title: "The Fifth Elephant 2019"
+  - title: The Fifth Elephant 2019
     city: Bengaluru
     venue: NIMHANS Convention Centre, Bangalore
     display_date: 25 – 26 July 2019
@@ -505,7 +505,7 @@ confs:
     childcare: true
     description: The eighth edition of India's best data conference
 
-  - title: "Anthill Inside 2019"
+  - title: Anthill Inside 2019
     city: Bengaluru
     venue: NIMHANS Convention Centre, Bangalore
     display_date: 24 July 2019
@@ -515,9 +515,9 @@ confs:
     cfp: https://hasgeek.com/anthillinside/2019/proposals#call-for-proposal
     scholarships: false
     childcare: true
-    description: "On infrastructure for AI and ML: from managing training data to data storage, cloud strategy and costs of developing ML models"
+    description: On infrastructure for AI and ML - from managing training data to data storage, cloud strategy and costs of developing ML models
 
-  - title: "Rootconf 2019"
+  - title: Rootconf 2019
     city: Bengaluru
     venue: NIMHANS Convention Centre, Bangalore
     display_date: 21 – 22 June 2019
@@ -529,7 +529,7 @@ confs:
     childcare: true
     description: On infrastructure security, DevOps and distributed systems.
 
-  - title: "Embeded DevCon"
+  - title: Embeded DevCon
     city: Bengaluru
     venue: Radisson Blu, Marathahalli, Bengaluru.
     display_date: 10 June 2019
@@ -541,7 +541,7 @@ confs:
     childcare: false
     description: Embedded DevCon is designed to provide software and system developers the resources to understand and tackle complex challenges of developing a safe embedded system – from the Design to the Testing.
 
-  - title: "Embeded DevCon"
+  - title: Embeded DevCon
     city: Pune
     venue: Novotel, Viman Nagar, Pune
     display_date: 13 – 14 June 2019
@@ -553,7 +553,7 @@ confs:
     childcare: false
     description: Embedded DevCon is designed to provide software and system developers the resources to understand and tackle complex challenges of developing a safe embedded system – from the Design to the Testing.
 
-  - title: "JSFoo Coimbatore 2019"
+  - title: JSFoo Coimbatore 2019
     city: Coimbatore
     venue: Fairfield by Marriott Coimbatore
     display_date: 08 June 2019
