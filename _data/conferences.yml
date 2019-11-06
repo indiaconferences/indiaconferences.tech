@@ -564,3 +564,39 @@ confs:
     scholarships: false
     childcare: true
     description: On building a fast and secure web
+
+  - title: WordCamp Mumbai
+    city: Mumbai
+    venue: TCET, Kandivali, Mumbai
+    display_date: 08 – 10 November 2019
+    start: 2019-11-08
+    end: 2019-11-10
+    website: https://2019.mumbai.wordcamp.org/
+    cfp: https://2019.mumbai.wordcamp.org/call-for-speakers/
+    scholarships: false
+    childcare: false
+    description: WordCamp Mumbai is running in its 6th continuous year! This will be the 7th one in WordCamp history.
+
+  - title: Functional Conf
+    city: Bengaluru
+    venue: ITC WelComHotel, Bengaluru
+    display_date: 13 – 17 November 2019
+    start: 2019-11-13
+    end: 2019-11-17
+    website: https://functionalconf.com/
+    cfp: https://functionalconf.com/speaker.html
+    scholarships: false
+    childcare: false
+    description: Asia's Premier Functional Programming Conference.
+
+  - title: ReactFoo Delhi
+    city: Delhi/NCR
+    venue: India International Centre (main building), New Delhi
+    display_date: 16 November 2019
+    start: 2019-11-16
+    end: 2019-11-16
+    website: https://hasgeek.com/reactfoo/2019-delhi/
+    cfp: https://hasgeek.com/reactfoo/2019-delhi/proposals#call-for-proposal
+    scholarships: false
+    childcare: false
+    description: On React, performance and front-end engineering.
