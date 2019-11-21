@@ -780,3 +780,15 @@ confs:
     scholarships: false
     childcare: false
     description: One day react conference dedicated to bring 400+ react developers together.
+
+  - title: IN/Clojure
+    city: Pune
+    venue: TBD, Pune
+    display_date: 14 – 15 February 2020
+    start: 2020-02-14
+    end: 2020-02-15
+    website: https://inclojure.org/
+    cfp: https://hasgeek.com/inclojure/2020/proposals
+    scholarships: https://inclojure.org/#opgrant
+    childcare: false
+    description: IN/Clojure is India's annual Clojure conference, and Asia's first. IN/Clojure’s primary focus is the free exchange of ideas between new and experienced Clojure programmers alike.
