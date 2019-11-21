@@ -42,7 +42,8 @@ layout: compress
             </a>
             <span class="date">{{ conference.display_date }}</span>
           </h2>
-          <p>{{ conference.description | strip_html | truncatewords:10 }}</p>
+          <!-- <p>{{ conference.description | strip_html | truncatewords:10 }}</p> -->
+          <p>{{ conference.city | strip_html | truncatewords:10 }}</p>
           <ul class="tags">
             <li><a href="{%  if conference.scholarships contains "://" %}{{ conference.scholarships }}{% else %}{{ conference.website }}{% endif %}" target="_blank" rel="noopener noreferrer">🎓 SCHOLARSHIPS</a></li>
             {% if conference.cfp != false %}
