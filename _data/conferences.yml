@@ -792,3 +792,75 @@ confs:
     scholarships: https://inclojure.org/#opgrant
     childcare: false
     description: IN/Clojure is India's annual Clojure conference, and Asia's first. IN/Clojure’s primary focus is the free exchange of ideas between new and experienced Clojure programmers alike.
+
+  - title: Rootconf Delhi
+    city: Delhi/NCR
+    venue: India International Centre (Kamaladevi Complex), Delhi
+    display_date: 18 January 2020
+    start: 2020-01-18
+    end: 2020-01-18
+    website: https://hasgeek.com/rootconf/2020-delhi/
+    cfp: https://hasgeek.com/rootconf/2020-delhi/proposals#call-for-proposal
+    scholarships: false
+    childcare: false
+    description: Rootconf is a platform for SRE, DevOps, security and InfoSec developers and cloud operators. We bring the community together through talks, workshops and events.
+
+  - title: Kubernetes Forum Bengaluru
+    city: Bengaluru
+    venue: Manpho Convention Center
+    display_date: 17 – 18 February 2020
+    start: 2020-02-17
+    end: 2020-02-18
+    website: https://events.linuxfoundation.org/kubernetes-forum-bengaluru/
+    cfp: https://events.linuxfoundation.org/kubernetes-forum-bengaluru/program/cfp/
+    scholarships: https://events.linuxfoundation.org/kubernetes-forum-bengaluru/attend/diversity-scholarships/
+    childcare: false
+    description: Kubernetes Forums connect international and local cloud native experts, adopters, developers, and end users in global cities to enable face-to-face collaboration and deliver rich educational experiences.
+
+  - title: Kubernetes Forum Delhi
+    city: Bengaluru
+    venue: Manpho Convention Center
+    display_date: 20 – 21 February 2020
+    start: 2020-02-20
+    end: 2020-02-21
+    website: https://events.linuxfoundation.org/kubernetes-forum-delhi/
+    cfp: https://events.linuxfoundation.org/kubernetes-forum-delhi/program/cfp/
+    scholarships: https://events.linuxfoundation.org/kubernetes-forum-delhi/attend/diversity-scholarships/
+    childcare: false
+    description: Kubernetes Forums connect international and local cloud native experts, adopters, developers, and end users in global cities to enable face-to-face collaboration and deliver rich educational experiences.
+
+  - title: IndiaOS
+    city: Bengaluru
+    venue: Zerodha, Bengaluru
+    display_date: 18 January 2020
+    start: 2020-01-18
+    end: 2020-01-18
+    website: https://indiaos.in/
+    cfp: https://indiaos.in/propose-a-talk
+    scholarships: false
+    childcare: false
+    description: See what's shaping the future of software, join a community of makers and creators and turn ideas into innovations.
+
+  - title: hackercamp
+    city: Delhi/NCR
+    venue: Innovaccer
+    display_date: 14 – 15 December 2019
+    start: 2019-12-14
+    end: 2019-12-15
+    website: https://hackercamp.in/
+    cfp: false
+    scholarships: false
+    childcare: false
+    description: Collaborate with the nation’s top coders and solve practical business cases.
+
+  - title: Outcome 2020
+    city: Chandigarh
+    venue: SPIC Centre, EDC, RG Technology Park, Chandigarh
+    display_date: 08 February 2020
+    start: 2020-02-08
+    end: 2020-02-08
+    website: http://outcomeconf.com/
+    cfp: http://outcomeconf.com/call-for-speakers/
+    scholarships: false
+    childcare: false
+    description: Products Mindset to Design for Scale. For the Narrative. February 2020.
