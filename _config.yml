@@ -64,3 +64,7 @@ plugins:
 # Exclude list
 include: [_pages]
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .jekyll-cache, .DS_Store]
+
+collections:
+  events:
+    sort_by: start

@@ -25,7 +25,7 @@ layout: compress
     <div class="content">
       <ul class="posts-list">
         
-        {% assign conferences = site.data.conferences.confs | sort: 'start' %}
+        {% assign conferences = site.events %}
         
         {% capture now %}{{ site.time | date: '%Y%m%d' | plus: 0 }}{%- endcapture %}
         
@@ -40,7 +40,12 @@ layout: compress
             <a href="{{ conference.website }}" target="_blank" rel="noopener noreferrer" class="post-title">
               <span>{{ conference.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             </a>
-            <span class="date">{{ conference.display_date }}</span>
+        {% if conference.start == conference.end %} 
+            <span class="date">{{ conference.start | date_to_long_string }}</span>
+        {% else %}    
+          <span class="date">{{ conference.start | date: "%d" }} – {{ conference.end | date_to_long_string }}</span>
+        {% endif %}
+        
           </h2>
           <!-- <p>{{ conference.description | strip_html | truncatewords:10 }}</p> -->
           <p>{{ conference.city | strip_html | truncatewords:10 }}</p>
