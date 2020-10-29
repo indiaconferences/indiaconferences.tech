@@ -1,5 +1,5 @@
 ---
-title: Destination: Decentralization
+title: Destination Decentralization
 city: Online
 venue: Online
 start: 2020-04-16
