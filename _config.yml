@@ -68,3 +68,13 @@ exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, 
 collections:
   events:
     sort_by: start
+
+compress_html:
+  clippings: []
+  comments: []
+  endings: []
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: []
