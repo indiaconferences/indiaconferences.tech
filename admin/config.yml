@@ -5,7 +5,7 @@ backend:
 
 site_url: https://indiaconferences.tech/
 display_url: indiaconferences.tech
-       
+
 # publish_mode: editorial_workflow
 
 # This line should *not* be indented
